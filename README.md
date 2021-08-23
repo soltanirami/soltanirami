@@ -8,4 +8,3 @@
 soltanirami/soltanirami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://code-with-me.jetbrains.com/J-oZoaR-OnJz9N81-G7ErA#p=IU&fp=98CB2DA3C520AA3EB8FEA7F0E230066F4ED48365BFA7B1F92E113F8FCD24E932
